@@ -1,0 +1,6 @@
+Posso utilizar uma tag para diferenciar um conteiner e não ser necessário inicia-lo pelo ID
+Ex: docker build -t douglasrosa/simpleweb .    
+-t é a tag
+douglasrosa/simpleweb é o nome do dockerhub e o repositório
+simpleweb é o nome da pasta local
+. é a instrução do build
